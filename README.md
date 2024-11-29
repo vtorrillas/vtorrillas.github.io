@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page! :blush:
+# Welcome to my GitHub Page! 
 
 * My name is Victoria and I'm a Software Engineer
 * I am currently learning Java and TypeScript
