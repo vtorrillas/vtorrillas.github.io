@@ -1,5 +1,3 @@
-# Victoria Torrillas
-
 ## Hello there 👋
 
 My name is Victoria, and I'm a Platforms Software Engineer at Starling Bank.
