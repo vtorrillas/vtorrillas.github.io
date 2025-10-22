@@ -1,5 +1,13 @@
-# Victoria Torrillas
+# Hello there! 👋
 
-* My name is Victoria and I'm a Software Engineer
-* I am currently learning Java and TypeScript
-* I have basic knowledge of Python and MySQL
+My name is Victoria Torrillas, and I'm a Platforms Software Engineer at Starling Bank.
+
+## Technologies
+* Java
+* Typescript
+* PostgreSQL
+* MySQL
+* Python
+
+Speaking Engagements:
+* 4th Women in Technology HuddleHive Hackathon
